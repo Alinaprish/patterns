@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ei47ma8oa2e9o68d/branch/main?svg=true)](https://ci.appveyor.com/project/Alinaprish/hw2-2selenide/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/a5lsrug5n9u9o564/branch/main?svg=true)](https://ci.appveyor.com/project/Alinaprish/patterns/branch/main)
